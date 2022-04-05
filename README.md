@@ -1,5 +1,3 @@
-# CS523.M21.KHCL
-
 # [CS532.M21.KHCL](https://github.com/vantai-nlp/CS523.M21.KHCL)
 
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
