@@ -1,6 +1,4 @@
-# CS523.M21.KHCL
-
-# [CS532.M21.KHCL](https://github.com/vantai-nlp/CS523.M21.KHCL)
+# Data structure and Algorithm ++ _ CS523.M21.KHCL
 
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
